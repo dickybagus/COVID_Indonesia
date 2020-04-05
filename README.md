@@ -18,7 +18,7 @@
   * Kabupaten Bogor : [disini](https://covid-19.bogorkab.go.id/)
   * Kabupaten Ciamis
   * Kabupaten Cianjur
-  * Kabupaten Cirebon
+  * Kabupaten Cirebon :[disini](http://covid19.cirebonkab.go.id/)
   * Kabupaten Garut
   * Kabupaten Indramayu
   * Kabupaten Karawang

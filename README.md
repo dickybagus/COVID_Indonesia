@@ -115,3 +115,4 @@
 
 #KONTRIBUTOR
 * Masukkan Nama Kontributor Disini dengan format [nama_lengkap](LinkedIn_Page)
+[Khansa Avi] (https://www.linkedin.com/in/khansa-avi-4383591a6/)

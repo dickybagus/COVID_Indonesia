@@ -22,7 +22,7 @@
   * Kabupaten Garut
   * Kabupaten Indramayu
   * Kabupaten Karawang
-  * Kabupaten Kuningan
+  * Kabupaten Kuningan 
   * Kabupaten Majalengka
   * Kabupaten Pangandaran
   * Kabupaten Purwakarta
@@ -39,13 +39,13 @@
   * Kabupaten Lebak : [disini](https://siagacovid19.lebakkab.go.id/)
   * Kabupaten Tangerang : [disini](http://covid19.tangerangkab.go.id/)
 
-* Provinsi Jawa Tengah
-  * Kota Semarang
+* Provinsi Jawa Tengah 
+  * Kota Semarang 
 
-* Provinsi D.I. Yogyakarta
+* Provinsi D.I. Yogyakarta : [disini](https://corona.jogjaprov.go.id/)
 
-* Provinsi Jawa Timur
-  * Kota Surabaya
+* Provinsi Jawa Timur 
+  * Kota Surabaya 
 
 ## PULAU BALI
 * Provinsi Bali
@@ -114,4 +114,4 @@
 
 
 #KONTRIBUTOR
-* Masukkan Nama Kontributor Disini dengan format [nama_lengkap](LinkedIn_Page)
+* Masukkan Nama Kontributor Disini dengan format [Saffanah_Ghariyyah](www.linkedin.com/in/saffanah-makna-70b3581a6)

@@ -115,3 +115,4 @@
 
 #KONTRIBUTOR
 * Masukkan Nama Kontributor Disini dengan format [nama_lengkap](LinkedIn_Page)
+* [Aprillia_Nur_Afifah](https://www.linkedin.com/mwlite/in/aprillia-nur-89a35b1a6)

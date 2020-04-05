@@ -46,6 +46,7 @@
 
 * Provinsi Jawa Timur
   * Kota Surabaya
+  * Kabupaten Sidoarjo: https://covid19.sidoarjokab.go.id/
 
 ## PULAU BALI
 * Provinsi Bali
@@ -114,4 +115,4 @@
 
 
 #KONTRIBUTOR
-* Masukkan Nama Kontributor Disini dengan format [nama_lengkap](LinkedIn_Page)
+* [Azuma Fikri Fajrin Utama] (https://www.linkedin.com/in/azuma-fikri-b5a3601a6)

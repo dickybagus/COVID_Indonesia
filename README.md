@@ -114,5 +114,5 @@
 
 
 ##KONTRIBUTOR
-* Masukkan Nama Kontributor Disini dengan format [nama_lengkap](LinkedIn_Page)
-* [Halid_Misfal_Karbala](https://www.linkedin.com/in/halid-misfal-karbala-a556291a3/)
+* Masukkan Nama Kontributor Disini dengan format [berliani_rosin](http://www.linkedin.com/in/Berlianirosin041911233034
+)

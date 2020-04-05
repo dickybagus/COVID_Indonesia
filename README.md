@@ -39,13 +39,14 @@
   * Kabupaten Lebak : [disini](https://siagacovid19.lebakkab.go.id/)
   * Kabupaten Tangerang : [disini](http://covid19.tangerangkab.go.id/)
 
-* Provinsi Jawa Tengah
+* Provinsi Jawa Tengah : [disini](https://corona.jatengprov.go.id/)
   * Kota Semarang
 
 * Provinsi D.I. Yogyakarta
 
-* Provinsi Jawa Timur
-  * Kota Surabaya
+* Provinsi Jawa Timur : [disini](http://infocovid19.jatimprov.go.id/)
+  * Kota Surabaya : tidak ada website khusus
+  * Kota Sidoarjo : tidak ada website khusus
 
 ## PULAU BALI
 * Provinsi Bali
@@ -115,3 +116,4 @@
 
 #KONTRIBUTOR
 * Masukkan Nama Kontributor Disini dengan format [nama_lengkap](LinkedIn_Page)
+* [Ilham_Ferdiansyah_Al_Farid](https://www.linkedin.com/in/ilham-ferdiansyah-a-56895a120/)

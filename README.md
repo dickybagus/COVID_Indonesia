@@ -39,7 +39,7 @@
   * Kabupaten Lebak : [disini](https://siagacovid19.lebakkab.go.id/)
   * Kabupaten Tangerang : [disini](http://covid19.tangerangkab.go.id/)
 
-* Provinsi Jawa Tengah
+* Provinsi Jawa Tengah : [disini](https://corona.jatengprov.go.id/)
   * Kota Semarang
 
 * Provinsi D.I. Yogyakarta
@@ -50,7 +50,7 @@
 ## PULAU BALI
 * Provinsi Bali
   * Kota Denpasar
-* Provinsi Nusa Tenggara Barat
+* Provinsi Nusa Tenggara Barat : [disini](https://corona.ntbprov.go.id/)
 
 ## PULAU SUMATERA ##
 * Provinsi Aceh
@@ -114,4 +114,5 @@
 
 
 #KONTRIBUTOR
-* Masukkan Nama Kontributor Disini dengan format [nama_lengkap](LinkedIn_Page)
+* Masukkan Nama Kontributor Disini dengan format [nama_lengkap]
+* [Martin_Okie](https://github.com/martinokie)

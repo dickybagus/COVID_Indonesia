@@ -115,4 +115,4 @@
 
 ##KONTRIBUTOR
 * Masukkan Nama Kontributor Disini dengan format [nama_lengkap](LinkedIn_Page)
-* [Halid_Misfal_Karbala](https://www.linkedin.com/in/halid-misfal-karbala-a556291a3/)
+* [Safira_Salza_Rahmadina](https://www.linkedin.com/in/safira-salza-rahmadina-2383601a6)

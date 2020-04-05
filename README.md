@@ -115,3 +115,5 @@
 
 #KONTRIBUTOR
 * Masukkan Nama Kontributor Disini dengan format [nama_lengkap](LinkedIn_Page)
+* [Achmad_Naufal_Anwar](https://www.linkedin.com/in/achmad-naufal-anwar-a364a31a6)
+

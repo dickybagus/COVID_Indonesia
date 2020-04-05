@@ -115,3 +115,4 @@
 
 #KONTRIBUTOR
 * Masukkan Nama Kontributor Disini dengan format [nama_lengkap](LinkedIn_Page)
+* [Annisa_Aqila](https://www.linkedin.com/in/annisa-aqila-74a35b1a6)

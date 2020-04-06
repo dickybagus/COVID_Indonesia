@@ -116,3 +116,4 @@
 ##KONTRIBUTOR
 * Masukkan Nama Kontributor Disini dengan format [nama_lengkap](LinkedIn_Page)
 * [Halid_Misfal_Karbala](https://www.linkedin.com/in/halid-misfal-karbala-a556291a3/)
+* [Shabrina_Millatania_Arifin](https://www.linkedin.com/in/shabrina-millatania-a983641a6/)

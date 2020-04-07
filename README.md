@@ -39,7 +39,7 @@
   * Kabupaten Lebak : [disini](https://siagacovid19.lebakkab.go.id/)
   * Kabupaten Tangerang : [disini](http://covid19.tangerangkab.go.id/)
 
-* Provinsi Jawa Tengah
+* Provinsi Jawa Tengah : [disini] (https://corona.jatengprov.go.id/)
   * Kota Semarang
 
 * Provinsi D.I. Yogyakarta
@@ -117,3 +117,4 @@
 * Masukkan Nama Kontributor Disini dengan format [nama_lengkap](LinkedIn_Page)
 * [Halid_Misfal_Karbala](https://www.linkedin.com/in/halid-misfal-karbala-a556291a3/)
 * [Aprillia_Nur_Afifah](https://www.linkedin.com/mwlite/in/aprillia-nur-89a35b1a6) 
+* [Nurus_Sufiyah_Salam] (https://www.linkedin.com/in/nurus-sufiyah-salam-49a545151/)
